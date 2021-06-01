@@ -1,4 +1,4 @@
-# Anime Recommendation System:
+# Anime Recommender System:
 
 A recommendation system is a subclass of information filtering system. In this project I attempted to predict the "rating" or "preference" that the user would give the item or in this case the anime.
 
